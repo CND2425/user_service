@@ -1,0 +1,11 @@
+fastapi ~=0.115
+motor ~=3.3
+uvicorn ~=0.34
+pydantic[email]
+python-jose[cryptography] ~=3.3
+passlib[bcrypt] ~=1.7
+pytest ~=7.4
+pytest-asyncio ~=0.21
+python-multipart
+pytest
+httpx
