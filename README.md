@@ -12,6 +12,13 @@ Dieser Service wurde mit **FastAPI** entwickelt und nutzt **MongoDB** zur Speich
 
 ---
 
+## Architektur
+
+![User_service drawio](https://github.com/user-attachments/assets/49a771e1-4514-44bc-80d0-b74b69275f3c)
+
+
+---
+
 ## Technologien
 - **FastAPI**: Framework für die API-Entwicklung.
 - **MongoDB**: NoSQL-Datenbank für die Speicherung von Benutzerdaten.
